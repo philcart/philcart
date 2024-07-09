@@ -7,8 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philcart&layout=compact)](https://github.com/philcart/github-readme-stats)
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
 ![Visitor Count](https://profile-counter.glitch.me/philcart/count.svg)
 
 <!---
