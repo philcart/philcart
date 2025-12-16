@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @philcart
 - 👀 I’m interested in Cricket, PC Gaming and Automation
-- 🌱 I’m currently learning Azure Bicep
+- 🌱 I’m currently learning to automate the world
 - 📫 How to reach me, you don't, I know who you are, I'll find you
 
 [![Philcart's GitHub stats](https://github-readme-stats.vercel.app/api?username=philcart&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
